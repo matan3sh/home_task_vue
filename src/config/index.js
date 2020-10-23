@@ -1,0 +1,5 @@
+export const API_KEY =
+  '232f2221bd6940089220ba6469a4e3daf1ba4162d96444c99b7873f29e59ade6';
+
+export const APP_KEY =
+  '6de7b06311784a708d6a1485f3f695eb53f98836dfe04334ae78495dee32613f';
